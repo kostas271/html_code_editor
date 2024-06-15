@@ -1,0 +1,31 @@
+body {
+  background-color: rgb(152, 153, 153);
+  position: relative;
+}
+
+#icon{
+  float: right; 
+}
+
+
+
+textarea {
+  width: 32%;
+  float: top;
+  min-height: 250px;
+  overflow: scroll;
+  margin: auto;
+  display: inline-block;
+  background: #0497c4cb;
+  outline: none;
+  font-family: Courier, sans-serif;
+  font-size: 14px;
+}
+
+iframe {
+  bottom: 0;
+  float:right;
+  background-color: white;
+  width: 67%;
+  height: 1000;
+}
